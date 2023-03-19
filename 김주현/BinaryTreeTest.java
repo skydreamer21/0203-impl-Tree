@@ -10,7 +10,7 @@
 *  Level : 4                              20
 * */
 
-public class ArrayBinaryTreeTest {
+public class BinaryTreeTest {
     static final boolean LEFT = true;
     static final boolean RIGHT = false;
     
