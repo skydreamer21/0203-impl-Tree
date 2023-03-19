@@ -2,6 +2,8 @@ import exceptions.CustomIllegalArgumentException;
 import exceptions.CustomNoSuchElementException;
 
 public class ArrayBinaryTree implements Tree {
+    private static final int INIT_SIZE = 10;
+    
     private int[] tree;
     private boolean[] hasElement;
     private int size;
